@@ -1,10 +1,23 @@
-# Aplicación Operación Suma
-## Descripción
-El script implementa la suma de dos numeros y realiza la validación de los operantes.
-## Funcionalidades
-- Suma 2 Operandos
-- **Verifica** que los operandos sean numeros(int o float)
+# 🧮 Operación Suma
 
-![Alt text](https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1)
-[Repositorio](https://github.com/JosefOreC/operacion_suma.git)
-  
+**Operación Suma** es un sencillo programa en Python que permite sumar dos números introducidos por el usuario desde el teclado. Antes de realizar la suma, el programa valida que ambas entradas sean realmente números, proporcionando mensajes de error si no lo son.
+
+---
+
+## 🖼️ Vista previa
+
+### Entrada válida
+![Entrada válida](images/entrada_valida.png)
+
+### Entrada inválida
+![Entrada inválida](images/entrada_invalida.png)
+
+---
+
+## 🚀 ¿Cómo usarlo?
+
+1. Clona este repositorio o descarga el archivo `operacion_suma.py`.
+2. Ejecuta el script con Python 3:
+
+```bash
+python operacion_suma.py
